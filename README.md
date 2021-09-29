@@ -2,7 +2,9 @@
 # ReactJS TODO App
 
 ***
-# AboutThis Is ReactJS TODO app. This small project is created only for learning purpose of PROPS and STATE management in ReactJS.
+# About
+
+This Is ReactJS TODO app. This small project is created only for learning purpose of PROPS and STATE management in ReactJS.
 
 ***
 # Tags
